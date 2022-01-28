@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="IND- STAR PLUS SD UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- STAR PLUS SD UK
+http://bestsave.ltd:2052/55667788/88776655/42871
+#EXTINF:-1 tvg-name="IND- STAR PLUS HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- STAR PLUS HD
+http://bestsave.ltd:2052/55667788/88776655/42872
+#EXTINF:-1 tvg-name="IND- STAR BHARAT FHD" tvg-logo="http://62.182.85.43/poster/starbharat.jpg",IND- STAR BHARAT FHD
+http://bestsave.ltd:2052/55667788/88776655/42882
+#EXTINF:-1 tvg-name="IND- STAR BHARAT UK" tvg-logo="http://62.182.85.43/poster/starbharat.jpg",IND- STAR BHARAT UK
+http://bestsave.ltd:2052/55667788/88776655/42883
+#EXTINF:-1 tvg-name="IND- STAR GOLD HD" tvg-logo="http://62.182.85.43/poster/StarGold.jpg",IND- STAR GOLD HD
+http://bestsave.ltd:2052/55667788/88776655/43133
+#EXTINF:-1 tvg-name="IND- STAR GOLD S" tvg-logo="http://62.182.85.43/poster/StarGold.jpg",IND- STAR GOLD S
+http://bestsave.ltd:2052/55667788/88776655/43131
+#EXTINF:-1 tvg-name="IND- STAR GOLD SELECT HD" tvg-logo="http://62.182.85.43/poster/StarGold.jpg",IND- STAR GOLD SELECT HD
+http://bestsave.ltd:2052/55667788/88776655/43129
+#EXTINF:-1 tvg-name="IND- STAR JALSA HD" tvg-logo="http://62.182.85.43/poster/starjalshaHD.jpg",IND- STAR JALSA HD
+http://bestsave.ltd:2052/55667788/88776655/42909
+#EXTINF:-1 tvg-name="IND- STAR JALSA MOVIES HD" tvg-logo="http://62.182.85.43/poster/JalshaMovie.jpg",IND- STAR JALSA MOVIES HD
+http://bestsave.ltd:2052/55667788/88776655/42910
+#EXTINF:-1 tvg-name="IND- COLORS FHD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- COLORS FHD
+http://bestsave.ltd:2052/55667788/88776655/42876
+#EXTINF:-1 tvg-name="IND- COLORS TV HD S1" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- COLORS TV HD S1
+http://bestsave.ltd:2052/55667788/88776655/42873
+#EXTINF:-1 tvg-name="IND- COLORS INFINITY" tvg-logo="http://62.182.85.43/poster/ColoursInfinity.jpg",IND- COLORS INFINITY
+http://bestsave.ltd:2052/55667788/88776655/42940
+#EXTINF:-1 tvg-name="IND- SONY TV HD S2" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- SONY TV HD S2
+http://bestsave.ltd:2052/55667788/88776655/42877
+#EXTINF:-1 tvg-name="IND- SONY SAB TV HD S1" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- SONY SAB TV HD S1
+http://bestsave.ltd:2052/55667788/88776655/42879
+#EXTINF:-1 tvg-name="IND- SONY SAB UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- SONY SAB UK
+http://bestsave.ltd:2052/55667788/88776655/42880
+#EXTINF:-1 tvg-name="IND- SONY TV HD S3" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- SONY TV HD S3
+http://bestsave.ltd:2052/55667788/88776655/42878
+#EXTINF:-1 tvg-name="IND- SONY PAL+" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- SONY PAL+
+http://bestsave.ltd:2052/55667788/88776655/42890
+#EXTINF:-1 tvg-name="IND- SONY WAH" tvg-logo="http://62.182.85.43/poster/ZeeAnmol.jpg",IND- SONY WAH
+http://bestsave.ltd:2052/55667788/88776655/42892
+#EXTINF:-1 tvg-name="IND: SONY MAX UK" tvg-logo="http://62.182.85.43/poster/SongMaxS.jpg",IND: SONY MAX UK
+http://bestsave.ltd:2052/55667788/88776655/43140
+#EXTINF:-1 tvg-name="IND- SONY MAX S" tvg-logo="http://62.182.85.43/poster/SongMaxS.jpg",IND- SONY MAX S
+http://bestsave.ltd:2052/55667788/88776655/43142
+#EXTINF:-1 tvg-name="IND- RISHTEY CINE PLEX" tvg-logo="http://62.182.85.43/poster/rishtey.jpg",IND- RISHTEY CINE PLEX
+http://bestsave.ltd:2052/55667788/88776655/42893
+#EXTINF:-1 tvg-name="IND- ZEE TV HD S1" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- ZEE TV HD S1
+http://bestsave.ltd:2052/55667788/88776655/42867
+#EXTINF:-1 tvg-name="IND- ZEE TV FHD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- ZEE TV FHD
+http://bestsave.ltd:2052/55667788/88776655/42868
+#EXTINF:-1 tvg-name="IND- ZEE ANMOL" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- ZEE ANMOL
+http://bestsave.ltd:2052/55667788/88776655/42891
+#EXTINF:-1 tvg-name="IND- ZEE ACTION HD S" tvg-logo="http://62.182.85.43/poster/ZEEAction.jpg",IND- ZEE ACTION HD S
+http://bestsave.ltd:2052/55667788/88776655/43134
+#EXTINF:-1 tvg-name="IND- ZEE ACTION" tvg-logo="http://62.182.85.43/poster/ZEEAction.jpg",IND- ZEE ACTION
+http://bestsave.ltd:2052/55667788/88776655/43135
+#EXTINF:-1 tvg-name="IND- ZEE CINEMA HD S" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg",IND- ZEE CINEMA HD S
+http://bestsave.ltd:2052/55667788/88776655/43138
+#EXTINF:-1 tvg-name="IND- ZEE CINEMA HD" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg",IND- ZEE CINEMA HD
+http://bestsave.ltd:2052/55667788/88776655/43139
+#EXTINF:-1 tvg-name="IND- ZEE CLASSIC" tvg-logo="http://62.182.85.43/poster/zee.jpg",IND- ZEE CLASSIC
+http://bestsave.ltd:2052/55667788/88776655/43160
+#EXTINF:-1 tvg-name="IND- &amp; TV HD S2" tvg-logo="http://62.182.85.43/poster/S3.jpg",IND- &amp; TV HD S2
+http://bestsave.ltd:2052/55667788/88776655/42887
+#EXTINF:-1 tvg-name="IND- &amp; TV HD S3" tvg-logo="http://62.182.85.43/poster/S3.jpg",IND- &amp; TV HD S3
+http://bestsave.ltd:2052/55667788/88776655/42888
+#EXTINF:-1 tvg-name="IND- STAR MOVIES." tvg-logo="http://62.182.85.43/poster/starmovies.jpg",IND- STAR MOVIES.
+http://bestsave.ltd:2052/55667788/88776655/42939
+#EXTINF:-1 tvg-name="IND- STAR WORLD" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg",IND- STAR WORLD
+http://bestsave.ltd:2052/55667788/88776655/42941
+#EXTINF:-1 tvg-name="IND- STAR PREMIER HD" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg",IND- STAR PREMIER HD
+http://bestsave.ltd:2052/55667788/88776655/42942
+#EXTINF:-1 tvg-name="IND- PICTURES HD S" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- PICTURES HD S
+http://bestsave.ltd:2052/55667788/88776655/43148
+#EXTINF:-1 tvg-name="IND- PICTURES HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- PICTURES HD
+http://bestsave.ltd:2052/55667788/88776655/43149
+#EXTINF:-1 tvg-name="IND: D2H CINEMA" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: D2H CINEMA
+http://bestsave.ltd:2052/55667788/88776655/43152
+#EXTINF:-1 tvg-name="IND- FOOD FOOD" tvg-logo="http://62.182.85.43/poster/FoodFood.jpg",IND- FOOD FOOD
+http://bestsave.ltd:2052/55667788/88776655/42961
+#EXTINF:-1 tvg-name="===== HINDI NEWS =====" tvg-logo="http://62.182.85.43/poster/hindinews.jpg",===== HINDI NEWS =====
+http://bestsave.ltd:2052/55667788/88776655/49535
+#EXTINF:-1 tvg-name="IND- NDTV INDIA." tvg-logo="http://62.182.85.43/poster/NDTV24x7.jpg",IND- NDTV INDIA.
+http://bestsave.ltd:2052/55667788/88776655/42915
+#EXTINF:-1 tvg-name="IND- NDTV 24X7." tvg-logo="http://62.182.85.43/poster/NDTV24x7.jpg",IND- NDTV 24X7.
+http://bestsave.ltd:2052/55667788/88776655/42917
+#EXTINF:-1 tvg-name="IND- NDTV NEWS HINDI" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- NDTV NEWS HINDI
+http://bestsave.ltd:2052/55667788/88776655/29680
+#EXTINF:-1 tvg-name="IND - NDTV hindi bakup" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND - NDTV hindi bakup
+http://bestsave.ltd:2052/55667788/88776655/7910
+#EXTINF:-1 tvg-name="IND - NDTV 24x7*" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND - NDTV 24x7*
+http://bestsave.ltd:2052/55667788/88776655/7918
+#EXTINF:-1 tvg-name="IND- ABP NEWS," tvg-logo="http://62.182.85.43/poster/ABPNews.jpg",IND- ABP NEWS,
+http://bestsave.ltd:2052/55667788/88776655/42920
+#EXTINF:-1 tvg-name="IND- INDIA TV NEWS." tvg-logo="http://62.182.85.43/poster/indiatv.jpg",IND- INDIA TV NEWS.
+http://bestsave.ltd:2052/55667788/88776655/42921
+#EXTINF:-1 tvg-name="IND- INDIA TODAY." tvg-logo="http://62.182.85.43/poster/IndiaToday.jpg",IND- INDIA TODAY.
+http://bestsave.ltd:2052/55667788/88776655/42916
+#EXTINF:-1 tvg-name="IND- REPUBLIC NEWS," tvg-logo="http://62.182.85.43/poster/republc.jpg",IND- REPUBLIC NEWS,
+http://bestsave.ltd:2052/55667788/88776655/42912
+#EXTINF:-1 tvg-name="IND- 1ST INDIA NEWS" tvg-logo="http://62.182.85.43/poster/1stindianews.jpg",IND- 1ST INDIA NEWS
+http://bestsave.ltd:2052/55667788/88776655/49544
+#EXTINF:-1 tvg-name="IND- BHARAT SAMACHAR" tvg-logo="http://62.182.85.43/poster/BharatSamachar.jpg",IND- BHARAT SAMACHAR
+http://bestsave.ltd:2052/55667788/88776655/49545
+#EXTINF:-1 tvg-name="IND- NEWS 11 BHARAT" tvg-logo="http://62.182.85.43/poster/news11.jpg",IND- NEWS 11 BHARAT
+http://bestsave.ltd:2052/55667788/88776655/49553
+#EXTINF:-1 tvg-name="IND- INH 24X7" tvg-logo="http://62.182.85.43/poster/INH.jpg",IND- INH 24X7
+http://bestsave.ltd:2052/55667788/88776655/49550
+#EXTINF:-1 tvg-name="IND- NEWS NATION" tvg-logo="http://62.182.85.43/poster/newsNation.jpg",IND- NEWS NATION
+http://bestsave.ltd:2052/55667788/88776655/49551
+#EXTINF:-1 tvg-name="IND- NEWS 18 UTTAR PRADESH UTTARAKHAND" tvg-logo="http://62.182.85.43/poster/News18.jpg",IND- NEWS 18 UTTAR PRADESH UTTARAKHAND
+http://bestsave.ltd:2052/55667788/88776655/49556
+#EXTINF:-1 tvg-name="IND- CNN NEWS 18." tvg-logo="http://62.182.85.43/poster/CNNnews18.jpg",IND- CNN NEWS 18.
+http://bestsave.ltd:2052/55667788/88776655/42923
+#EXTINF:-1 tvg-name="IND- AAJ TAK," tvg-logo="http://62.182.85.43/poster/AAjTak.jpg",IND- AAJ TAK,
+http://bestsave.ltd:2052/55667788/88776655/42914
+#EXTINF:-1 tvg-name="IND- NEWS 24." tvg-logo="http://62.182.85.43/poster/24News.jpg",IND- NEWS 24.
+http://bestsave.ltd:2052/55667788/88776655/42922
+#EXTINF:-1 tvg-name="IND- ZEE NEWS," tvg-logo="http://62.182.85.43/poster/ZeeNews2.jpg",IND- ZEE NEWS,
+http://bestsave.ltd:2052/55667788/88776655/42918
+#EXTINF:-1 tvg-name="IND- ZEE BUSINESS," tvg-logo="http://62.182.85.43/poster/zeenews.jpg",IND- ZEE BUSINESS,
+http://bestsave.ltd:2052/55667788/88776655/42919
+#EXTINF:-1 tvg-name="IND- NEWS WORLD INDIA." tvg-logo="http://62.182.85.43/poster/NewsWorldindia.jpg",IND- NEWS WORLD INDIA.
+http://bestsave.ltd:2052/55667788/88776655/42927
+#EXTINF:-1 tvg-name="IND- TEZ NEWS." tvg-logo="http://62.182.85.43/poster/TezNews.jpg",IND- TEZ NEWS.
+http://bestsave.ltd:2052/55667788/88776655/42928
+#EXTINF:-1 tvg-name="IND- NDTV PROFIT." tvg-logo="http://62.182.85.43/poster/NDTV.jpg",IND- NDTV PROFIT.
+http://bestsave.ltd:2052/55667788/88776655/42931
+#EXTINF:-1 tvg-name="IND- DD INDIA" tvg-logo="http://62.182.85.43/poster/ddIndia.jpg",IND- DD INDIA
+http://bestsave.ltd:2052/55667788/88776655/42904
+#EXTINF:-1 tvg-name="IND- DD NATIONAL" tvg-logo="http://62.182.85.43/poster/DDnational.jpg",IND- DD NATIONAL
+http://bestsave.ltd:2052/55667788/88776655/42905
+#EXTINF:-1 tvg-name="IND- WION NEWS." tvg-logo="http://62.182.85.43/poster/WION.jpg",IND- WION NEWS.
+http://bestsave.ltd:2052/55667788/88776655/42933
+#EXTINF:-1 tvg-name="IND- CNBC AWAAZ." tvg-logo="http://62.182.85.43/poster/cnbcawaaz.jpg",IND- CNBC AWAAZ.
+http://bestsave.ltd:2052/55667788/88776655/42934
+#EXTINF:-1 tvg-name="IND- ET NOW," tvg-logo="http://62.182.85.43/poster/ETNOW.jpg",IND- ET NOW,
+http://bestsave.ltd:2052/55667788/88776655/42911
+#EXTINF:-1 tvg-name="IND- ZEE HINDUSTAN." tvg-logo="http://62.182.85.43/poster/ZEEHindustan.jpg",IND- ZEE HINDUSTAN.
+http://bestsave.ltd:2052/55667788/88776655/42929
+#EXTINF:-1 tvg-name="IND- AASTHA TV" tvg-logo="http://62.182.85.43/poster/aasthaTV.jpg",IND- AASTHA TV
+http://bestsave.ltd:2052/55667788/88776655/42902
+#EXTINF:-1 tvg-name="===== HINDI MUSIC =====" tvg-logo="http://62.182.85.43/poster/hindimusic.jpg",===== HINDI MUSIC =====
+http://bestsave.ltd:2052/55667788/88776655/49536
+#EXTINF:-1 tvg-name="IND- MTV BEATS HD" tvg-logo="http://62.182.85.43/poster/AAHO.jpg",IND- MTV BEATS HD
+http://bestsave.ltd:2052/55667788/88776655/46906
+#EXTINF:-1 tvg-name="IND: Hindi Music HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: Hindi Music HD
+http://bestsave.ltd:2052/55667788/88776655/45311
+#EXTINF:-1 tvg-name="IND- 9X JALWA" tvg-logo="http://62.182.85.43/poster/jalwa9x.jpg",IND- 9X JALWA
+http://bestsave.ltd:2052/55667788/88776655/42894
+#EXTINF:-1 tvg-name="IND- 9XM" tvg-logo="http://62.182.85.43/poster/9xm.jpg",IND- 9XM
+http://bestsave.ltd:2052/55667788/88776655/42895
+#EXTINF:-1 tvg-name="IND- MASTII" tvg-logo="http://62.182.85.43/poster/mastill.jpg",IND- MASTII
+http://bestsave.ltd:2052/55667788/88776655/42896
+#EXTINF:-1 tvg-name="IND- MTV INDIA" tvg-logo="http://62.182.85.43/poster/MTVINdia.jpg",IND- MTV INDIA
+http://bestsave.ltd:2052/55667788/88776655/42897
+#EXTINF:-1 tvg-name="IND- B4U MUSIC" tvg-logo="http://62.182.85.43/poster/B4Music.jpg",IND- B4U MUSIC
+http://bestsave.ltd:2052/55667788/88776655/42898
+#EXTINF:-1 tvg-name="IND- ZING" tvg-logo="http://62.182.85.43/poster/Zing.jpg",IND- ZING
+http://bestsave.ltd:2052/55667788/88776655/42900
+#EXTINF:-1 tvg-name="IND- MUSIC INDIA" tvg-logo="http://62.182.85.43/poster/IndiaMUSIC.jpg",IND- MUSIC INDIA
+http://bestsave.ltd:2052/55667788/88776655/42901
+#EXTINF:-1 tvg-name="==== ON DEMAND VOD ====" tvg-logo="http://62.182.85.43/poster/VOD.jpg",==== ON DEMAND VOD ====
+http://bestsave.ltd:2052/55667788/88776655/49538
+#EXTINF:-1 tvg-name="IND: BOLLYWOOD MOVIES UK HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: BOLLYWOOD MOVIES UK HD
+http://bestsave.ltd:2052/55667788/88776655/43127
+#EXTINF:-1 tvg-name="IND- ZEE CINEMA UK S" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg",IND- ZEE CINEMA UK S
+http://bestsave.ltd:2052/55667788/88776655/43136
+#EXTINF:-1 tvg-name="IND- ZEE CINEMA UK" tvg-logo="http://62.182.85.43/poster/ZEECenima.jpg",IND- ZEE CINEMA UK
+http://bestsave.ltd:2052/55667788/88776655/43137
+#EXTINF:-1 tvg-name="IND- B4U MOVIES W" tvg-logo="http://62.182.85.43/poster/B4U.jpg",IND- B4U MOVIES W
+http://bestsave.ltd:2052/55667788/88776655/43145
+#EXTINF:-1 tvg-name="IND: B4U MOVIES S" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: B4U MOVIES S
+http://bestsave.ltd:2052/55667788/88776655/43146
+#EXTINF:-1 tvg-name="IND: B4U MOVIES UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: B4U MOVIES UK
+http://bestsave.ltd:2052/55667788/88776655/43147
+#EXTINF:-1 tvg-name="IND- BBO MOVIES" tvg-logo="http://62.182.85.43/poster/BBO.jpg",IND- BBO MOVIES
+http://bestsave.ltd:2052/55667788/88776655/43151
+#EXTINF:-1 tvg-name="IND: CINEPLEX HD" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: CINEPLEX HD
+http://bestsave.ltd:2052/55667788/88776655/43153
+#EXTINF:-1 tvg-name="IND: STAR GOLD HD UK" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: STAR GOLD HD UK
+http://bestsave.ltd:2052/55667788/88776655/43156
+#EXTINF:-1 tvg-name="IND: SHANDAR CINEMA" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: SHANDAR CINEMA
+http://bestsave.ltd:2052/55667788/88776655/43157
+#EXTINF:-1 tvg-name="IND- EPIC" tvg-logo="http://62.182.85.43/poster/Epic.jpg",IND- EPIC
+http://bestsave.ltd:2052/55667788/88776655/43158
+#EXTINF:-1 tvg-name="IND: MAHA MOVIES" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: MAHA MOVIES
+http://bestsave.ltd:2052/55667788/88776655/43159
+#EXTINF:-1 tvg-name="IND: HOUSE FULL MOVIES T" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: HOUSE FULL MOVIES T
+http://bestsave.ltd:2052/55667788/88776655/43161
+#EXTINF:-1 tvg-name="IND: ENTER 10" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: ENTER 10
+http://bestsave.ltd:2052/55667788/88776655/43162
+#EXTINF:-1 tvg-name="IND: DANGAL" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: DANGAL
+http://bestsave.ltd:2052/55667788/88776655/43163
+#EXTINF:-1 tvg-name="IND- STAR MOVIES" tvg-logo="http://62.182.85.43/poster/starmovies.jpg",IND- STAR MOVIES
+http://bestsave.ltd:2052/55667788/88776655/43164
+#EXTINF:-1 tvg-name="IND: RISHTEY EUROPE" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: RISHTEY EUROPE
+http://bestsave.ltd:2052/55667788/88776655/43165
+#EXTINF:-1 tvg-name="IND: RISHTEY CINE PLEX EUROPE" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: RISHTEY CINE PLEX EUROPE
+http://bestsave.ltd:2052/55667788/88776655/43166
+#EXTINF:-1 tvg-name="IND- RISHTEY CINEPLEX" tvg-logo="http://62.182.85.43/poster/rishteycineplex.jpg",IND- RISHTEY CINEPLEX
+http://bestsave.ltd:2052/55667788/88776655/43167
+#EXTINF:-1 tvg-name="IND: RISHTEY CINE PLEX W" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: RISHTEY CINE PLEX W
+http://bestsave.ltd:2052/55667788/88776655/43168
+#EXTINF:-1 tvg-name="IND: CINE MAX" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND: CINE MAX
+http://bestsave.ltd:2052/55667788/88776655/43169
+#EXTINF:-1 tvg-name="IND- UTV MOVIES" tvg-logo="http://62.182.85.43/poster/UTVMOVIES.jpg",IND- UTV MOVIES
+http://bestsave.ltd:2052/55667788/88776655/43170
+#EXTINF:-1 tvg-name="IND- ARIHANT TV" tvg-logo="http://62.182.85.43/poster/ArihantTV.jpg",IND- ARIHANT TV
+http://bestsave.ltd:2052/55667788/88776655/42906
+#EXTINF:-1 tvg-name="IND- SANSKAR" tvg-logo="http://62.182.85.43/poster/SANSKAR.jpg",IND- SANSKAR
+http://bestsave.ltd:2052/55667788/88776655/42907
+#EXTINF:-1 tvg-name="IND- PEACE OF MIND" tvg-logo="http://62.182.85.43/poster/PeaceofMind.jpg",IND- PEACE OF MIND
+http://bestsave.ltd:2052/55667788/88776655/42908
+#EXTINF:-1 tvg-name="IND- AXN HD" tvg-logo="http://62.182.85.43/poster/axn.jpg",IND- AXN HD
+http://bestsave.ltd:2052/55667788/88776655/42935
+#EXTINF:-1 tvg-name="IND- HBO" tvg-logo="http://62.182.85.43/poster/HBO.jpg",IND- HBO
+http://bestsave.ltd:2052/55667788/88776655/42936
+#EXTINF:-1 tvg-name="IND- TLC" tvg-logo="http://62.182.85.43/poster/TLC.jpg",IND- TLC
+http://bestsave.ltd:2052/55667788/88776655/42937
+#EXTINF:-1 tvg-name="IND- ZEE CAFE" tvg-logo="http://62.182.85.43/poster/zeecafe.jpg",IND- ZEE CAFE
+http://bestsave.ltd:2052/55667788/88776655/42945
+#EXTINF:-1 tvg-name="IND- &amp; FLIX" tvg-logo="http://62.182.85.43/poster/&amp;flix.jpg",IND- &amp; FLIX
+http://bestsave.ltd:2052/55667788/88776655/42946
+#EXTINF:-1 tvg-name="IND- &amp; PRIVE" tvg-logo="http://62.182.85.43/poster/&amp;PrivateHD.jpg",IND- &amp; PRIVE
+http://bestsave.ltd:2052/55667788/88776655/42947
+#EXTINF:-1 tvg-name="IND- MNX" tvg-logo="http://62.182.85.43/poster/MNX.jpg",IND- MNX
+http://bestsave.ltd:2052/55667788/88776655/42949
+#EXTINF:-1 tvg-name="IND- ROMEDY NOW" tvg-logo="http://62.182.85.43/poster/Romedy.jpg",IND- ROMEDY NOW
+http://bestsave.ltd:2052/55667788/88776655/42950
+#EXTINF:-1 tvg-name="IND- STAR WORLD PREMIER" tvg-logo="http://62.182.85.43/poster/StarWorld.jpg",IND- STAR WORLD PREMIER
+http://bestsave.ltd:2052/55667788/88776655/42951
+#EXTINF:-1 tvg-name="IND- NAT GEO WILD" tvg-logo="http://62.182.85.43/poster/nationalgeographicWild.jpg",IND- NAT GEO WILD
+http://bestsave.ltd:2052/55667788/88776655/42952
+#EXTINF:-1 tvg-name="IND- NAT GEO HD" tvg-logo="http://62.182.85.43/poster/nationalgeographic.jpg",IND- NAT GEO HD
+http://bestsave.ltd:2052/55667788/88776655/42953
+#EXTINF:-1 tvg-name="IND- DISCOVERY" tvg-logo="http://62.182.85.43/poster/Discovery.jpg",IND- DISCOVERY
+http://bestsave.ltd:2052/55667788/88776655/42954
+#EXTINF:-1 tvg-name="IND- DISCOVERY KIDS" tvg-logo="http://62.182.85.43/poster/DiscoveryKids.jpg",IND- DISCOVERY KIDS
+http://bestsave.ltd:2052/55667788/88776655/42955
+#EXTINF:-1 tvg-name="IND- HISTORY HD" tvg-logo="http://62.182.85.43/poster/History.jpg",IND- HISTORY HD
+http://bestsave.ltd:2052/55667788/88776655/42956
+#EXTINF:-1 tvg-name="IND- ANIMAL PLANET" tvg-logo="http://62.182.85.43/poster/animalplanet.jpg",IND- ANIMAL PLANET
+http://bestsave.ltd:2052/55667788/88776655/42957
+#EXTINF:-1 tvg-name="IND- SONY BBC EARTH" tvg-logo="http://62.182.85.43/poster/SonyBBC.jpg",IND- SONY BBC EARTH
+http://bestsave.ltd:2052/55667788/88776655/42958
+#EXTINF:-1 tvg-name="IND- TRAVEL XP" tvg-logo="http://62.182.85.43/poster/TravelxpHD.jpg",IND- TRAVEL XP
+http://bestsave.ltd:2052/55667788/88776655/42959
+#EXTINF:-1 tvg-name="IND- LIVING FOODS" tvg-logo="http://62.182.85.43/poster/Livingfoodz.jpg",IND- LIVING FOODS
+http://bestsave.ltd:2052/55667788/88776655/42960
+#EXTINF:-1 tvg-name="IND- MAHA MOVIES" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- MAHA MOVIES
+http://bestsave.ltd:2052/55667788/88776655/37920
+#EXTINF:-1 tvg-name="IND- MOVIES NOW" tvg-logo="http://pst.gotdns.ch/poster/indiaflag.png",IND- MOVIES NOW
+http://bestsave.ltd:2052/55667788/88776655/37921
